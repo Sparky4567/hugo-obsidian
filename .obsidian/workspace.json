@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c01c7b25866858e6",
+        "id": "dd92b708dc68ef5c",
         "type": "tabs",
         "children": [
           {
-            "id": "1e5af8d1432064ce",
+            "id": "da9239e10e672c77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/templates/ABC table.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/templates/ABC table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/templates/ABC table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/templates/ABC table.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e5af8d1432064ce",
+  "active": "da9239e10e672c77",
   "lastOpenFiles": [
+    "content/posts/templates/ABC table.md",
     "content/posts/templates/Base template.md",
     "content/posts/templates/Code.md",
     "content/posts/templates/Iframe.md",
