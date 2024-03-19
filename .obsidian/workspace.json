@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "b0dfb334a6495910",
+    "type": "split",
+    "children": [
+      {
+        "id": "c01c7b25866858e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5af8d1432064ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/templates/ABC table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6047b1ffa204f7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a465f1a38aec2ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b879fc7507248323",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c824256631a2868b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "064e4edb8a7fe063",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca6e9360ca180b32",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b62e01eac9710a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0319ca66f4e99ed0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/templates/ABC table.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd90362b37115e3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/templates/ABC table.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9304aeaac5e47f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d469ec2f4c0ab74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/templates/ABC table.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1e5af8d1432064ce",
+  "lastOpenFiles": [
+    "content/posts/templates/Base template.md",
+    "content/posts/templates/Code.md",
+    "content/posts/templates/Iframe.md",
+    "content/posts/templates/Note template.md",
+    "content/posts/templates/Raw Html.md",
+    "content/posts/templates/Theme youtube video.md",
+    "content/posts/templates/Theme image.md",
+    "content/posts/templates/Wordpress template.md",
+    "content/posts/templates/Twitter template.md",
+    "content/posts/templates/Theme TikTok template.md",
+    "content/posts/templates/Notion.so template.md",
+    "content/posts/templates/Obsidian youtube.md",
+    "content/posts/templates/Markdown giphy.md",
+    "content/posts/templates/Markdown link.md",
+    "content/posts/Contacts.md",
+    "content/posts/templates/Giphy template.md",
+    "content/posts/templates/Grammarly template.md",
+    "content/posts/About.md",
+    "public/posts/contacts/index.html",
+    "public/posts/contacts",
+    "public/posts/untitled/index.html",
+    "public/posts/untitled",
+    "content/posts/about.md",
+    "content/posts/2024-03/About.md",
+    "public/posts/2024-03/about/index.html",
+    "public/posts/2024-03/about",
+    "public/posts/2024-03/untitled/index.html",
+    "public/posts/2024-03/untitled",
+    "content/posts/2024-03/2024-03-19.md",
+    "content/posts/2024-03/contacts.md",
+    "public/tags/new_post/page/1/index.html",
+    "public/tags/new_post/page/1",
+    "content/posts/2024-03/post.md",
+    "content/posts/2024-03/my-post.md"
+  ]
+}

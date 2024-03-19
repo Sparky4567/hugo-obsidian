@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newtag on Artefaktas AI Plugin</title>
+    <link>http://localhost:1313/tags/newtag/</link>
+    <description>Recent content in Newtag on Artefaktas AI Plugin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2024 17:20:25 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/newtag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacts</title>
+      <link>http://localhost:1313/posts/2024-03/contacts/</link>
+      <pubDate>Tue, 19 Mar 2024 17:20:25 +0200</pubDate>
+      <guid>http://localhost:1313/posts/2024-03/contacts/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
